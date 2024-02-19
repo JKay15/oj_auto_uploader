@@ -3,6 +3,7 @@ import sys
 from PIL import Image
 
 class ranker:
+    ##这里的fileroot记得要在后面加/
     def __init__(self,fileroot) -> None:
         self.fileroot=fileroot
         #进入所有的二级目录，按照文件名排序好的文件，从1开始编号

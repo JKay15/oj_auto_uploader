@@ -1,5 +1,5 @@
 from oj_auto_uploader.oj_prob_inserter import problem_inserter
-books=['/Users/xiongjiangkai/Desktop/高等代数 蓝以中/',
+books=['/Users/xiongjiangkai/Desktop/数理统计学讲义 陈家鼎/',
        ]
 
 for book in books:
