@@ -52,3 +52,6 @@ class ranker:
                         Ima=Image.open(fileroot+'/'+i+'/'+j)
                         
         print("ranker "+fileroot+" Done!")
+        
+        
+ranker("/Users/xiongjiangkai/Desktop/随机过程初级教程 Karlin/")
